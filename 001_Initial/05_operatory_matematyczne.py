@@ -33,3 +33,12 @@ print(a)
 a = 6
 a += 1
 print(a)
+
+#Dzielenie zmiennej przez wartość
+a = 6
+a = a / 4
+print(a)
+#lub
+a = 6
+a /= 4
+print(a)
